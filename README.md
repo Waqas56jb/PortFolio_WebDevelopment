@@ -24,6 +24,8 @@ CSS,html,JavaScript,Java,C++,C,SQL
 
 ![image](https://github.com/Waqas56jb/Portfolio/assets/156122615/82199542-a4cc-44c5-9613-e05ba8709c3c)
 ![image](https://github.com/Waqas56jb/Portfolio/assets/156122615/a3ccc133-6862-49fd-b80e-e7433d2ffdfe)
+![Uploading image.png…]()
+
 ![image](https://github.com/Waqas56jb/Portfolio/assets/156122615/50ebcc51-e90b-4083-b392-d27bfb6bbbfb)
 ![image](https://github.com/Waqas56jb/Portfolio/assets/156122615/235f04fd-f071-4236-9e09-74301dbe8394)
 ![image](https://github.com/Waqas56jb/Portfolio/assets/156122615/533d46aa-bb3d-4304-af9c-9e5828439e0a)
